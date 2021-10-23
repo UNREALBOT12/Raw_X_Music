@@ -1,15 +1,9 @@
-<p align="center"><a href="https://t.me/eSport_BOTs"><img src="https://github.com/HEXOROP/eSportMusicX/raw/main/etc/Hexor.png"></a></p>
+<p align="center"><a href="https://t.me/eSport_BOTs"><img src="https://telegra.ph/file/0ca0006908cd6d2c5cbf9.jpg"></a></p>
 <p align="center">
     <br><b>eSport MusicX is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
 </p>
 <p align="center">
-    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX"> <img src="https://img.shields.io/github/repo-size/HEXOROP/eSportMusicX?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX/commits/main"> <img src="https://img.shields.io/github/last-commit/HEXOROP/eSportMusicX?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX/issues"> <img src="https://img.shields.io/github/issues/HEXOROP/eSportMusicX?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX/network/members"> <img src="https://img.shields.io/github/forks/HEXOROP/eSportMusicX?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-    <a href="https://github.com/HEXOROP/eSportMusicX/network/members"> <img src="https://img.shields.io/github/stars/HEXOROP/eSportMusicX?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+     
 </p>
 
 <h3>Requirements 📝</h3>
@@ -25,7 +19,7 @@
 
 ### 🎖 History
 
-[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/HEXOROP/eSportMusicX)
+[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)]()
 
 ## Features 🔮
 
@@ -42,7 +36,7 @@
 
 - `/play <song name>` - play song you requested
 - `/song <song name>` - download songs you want quickly
-- `/hexor` - Bot Online OR Offine
+- `/raw` - Bot Online OR Offine
 
 #### Admins Only 👷‍♂️
 - `/pause` - pause song play
@@ -73,9 +67,9 @@ python3 main.py # Run the bot
 ```
 
 ### Special Credits 💖
-- [Hexor'xD](https://github.com/HEXOROP): Dev
-- [eSport Music Bot](https://t.me/eSport_BOTs) Our Music Bot
+- [Raw "xD"](https://t.me/we_are_legendss): Dev
+- [Raw X Music Bot](https://t.me/we_are_legendss) Our Music Bot
 - [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
 
 ### Support & Updates 🎑
-<a href="https://t.me/EsportClan"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/eSport_BOTs"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/we_are_legendss"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/eSport_BOTs"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
