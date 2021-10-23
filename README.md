@@ -1,6 +1,6 @@
 <p align="center"><a href="https://t.me/eSport_BOTs"><img src="https://telegra.ph/file/0ca0006908cd6d2c5cbf9.jpg"></a></p>
 <p align="center">
-    <br><b>eSport MusicX is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
+    <br><b>Raw X Music is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
 </p>
 <p align="center">
      
